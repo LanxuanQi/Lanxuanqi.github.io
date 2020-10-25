@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Professional Experience"
+    url: /Professional Experience/
+
+  - title: "Research"
+    url: /Research/ 
+
+  - title: "Awards"
+    url: /Awards/ 
+

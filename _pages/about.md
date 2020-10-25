@@ -1,0 +1,42 @@
+---
+permalink: /
+title: "Lanxuan Qi, Statistics (Research) student at LSE"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+### My Education Background
+
+* M.S. in Statistics (Research), [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE)
+* B.S. in Applied Statistics, Beijing Normal University, Zhuhai, 2019
+* B.S. in Finance (Dual Degree), Beijing Normal University, Zhuhai, 2019
+
+### My CV can be found [here](./cv-4.pdf).
+
+### Skills
+* **Language**: Python, SQL, R, MATLAB, SAS, JavaScript, Latex, C
+* **Tools**: MySQL, GitHub, Pandas, NumPy, Matplotlib
+* **Other**: Stata, EVIEWS, SPSS
+
+### My email address is: <l.qi4@lse.ac.uk>
+
+### Related Experience:
+* [Ivory Bay Capital](https://www.ivorybaycapital.com/), Equity Research Analyst - Hedge Fund, April 2020 - July 2020
+
+* [Ernst & Young](https://www.ey.com/en_cn), Project Manager for Global Roll Out, November 2019 - April 2020
+
+* [Accenture](https://www.accenture.com/cn-en), Financial Services Consulting, May 2019 - July 2019
+
+* [Tencent](https://www.tencent.com/en-us/index.html), Cloud & Smart Industries Group Intern, December 2018 - March 2019
+
+* [Chengdu Branch, Chinese Academy of Sciences (CAS)](http://www.cdb.cas.cn/en/), Research Assistent at Scientometrics & Evaluation Research Center (SERC), July 2018 - December 2018
+
+* [National Bureau of Statistics](http://www.stats.gov.cn/english/), Part-time Researcher, October 2017 - December 2017
+
+
+
+
