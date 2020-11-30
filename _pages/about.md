@@ -15,12 +15,12 @@ redirect_from:
 * B.S. in Applied Statistics, Beijing Normal University, Zhuhai, 2019
 * B.S. in Finance (Dual Degree), Beijing Normal University, Zhuhai, 2019
 
-### My CV can be found [here](./cv-4.pdf).
+### My CV can be found [here](./LANXUAN QI_CV.pdf).
 
 ### Skills
-* **Language**: Python, SQL, R, MATLAB, SAS, JavaScript, Latex, C
-* **Tools**: MySQL, GitHub, Pandas, NumPy, Matplotlib
-* **Other**: Stata, EVIEWS, SPSS
+* **Programming**:  Python (NumPy, Matplotlib, Keras, Pandas), SQL, R, MATLAB, SAS, Java, C
+* **Tools**: LaTeX, GitHub, Eviews, SPSS, Stata
+* **Languages**: English-Fluent, Mandarin Chinese-Native
 
 ### My email address is: <l.qi4@lse.ac.uk>
 
