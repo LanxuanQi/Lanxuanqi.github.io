@@ -13,8 +13,10 @@ redirect_from:
 
 
 ### Teaching Assistant at Beijing Normal University,Zhuhai
-* Fall 2016 - Spring 2017: Calculus
-* Fall 2017 - Spring 2018: Probability and Mathematical Statistics
+* Spring 2018: Probability and Mathematical Statistics
+* Fall 2017: Probability and Mathematical Statistics
+* Spring 2017: Advanced Mathematics
+* Fall 2016: Advanced Mathematics
 
 
 ### Internship Experience
