@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Lanxuan Qi / 2020"
+title                    : "Lanxuan Qi ' Profile"
 title_separator          : "-"
 name                     : &name (" " + "Lanxuan Qi")
 description              : &description " MSc student at LSE, Department of Statistics"
