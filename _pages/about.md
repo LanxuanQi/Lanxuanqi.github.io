@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lanxuan Qi, Statistics (Research) student at LSE"
+title: "Lanxuan Qi, M.S. Statistics (Research) student at LSE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,15 +12,17 @@ redirect_from:
 ### My Education Background
 
 * M.S. in Statistics (Research), [London School of Economics and Political Science](http://www.lse.ac.uk/statistics) (LSE)
-* B.S. in Applied Statistics, Beijing Normal University, Zhuhai, 2019
+* B.S. in Statistics, Beijing Normal University, Zhuhai, 2019
 * B.S. in Finance (Dual Degree), Beijing Normal University, Zhuhai, 2019
 
 ### My CV can be found [here](./LANXUAN QI_CV.pdf).
 
 ### Skills
-* **Programming**:  Python (NumPy, Matplotlib, Keras, Pandas), SQL, R, MATLAB, SAS, Java, C
+* **Programming**:  Python, SQL, R, MATLAB, SAS, Java, C
 * **Tools**: LaTeX, GitHub, Eviews, SPSS, Stata
+* **Data Science**: scikit-learn, spaCy, TensorFlow, PyTorch, Deep learning
 * **Languages**: English-Fluent, Mandarin Chinese-Native
+* **Interest: **Bridge**, Won the championship of the 2017 Zhuhai Bridge Communication Competition
 
 ### My email address is: <l.qi4@lse.ac.uk>
 
