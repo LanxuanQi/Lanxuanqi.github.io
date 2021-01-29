@@ -22,7 +22,7 @@ redirect_from:
 * **Tools**: LaTeX, GitHub, Eviews, SPSS, Stata
 * **Data Science**: scikit-learn, spaCy, TensorFlow, PyTorch, Deep learning
 * **Languages**: English-Fluent, Mandarin Chinese-Native
-* **Interest: **Bridge**, Won the championship of the 2017 Zhuhai Bridge Communication Competition
+* **Interest: Bridge**, Won the championship of the 2017 Zhuhai Bridge Communication Competition
 
 ### My email address is: <l.qi4@lse.ac.uk>
 
